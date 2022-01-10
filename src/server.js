@@ -19,4 +19,5 @@ const start = async () => {
     console.error(e);
   }
 };
-start();
+
+module.exports = start;

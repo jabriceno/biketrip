@@ -4,6 +4,8 @@
   "description": "Node.js API for register users, bikes and trips around the world!",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
